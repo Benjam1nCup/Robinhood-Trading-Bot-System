@@ -132,6 +132,9 @@ Robinhood's official ecosystem documentation lists Uniswap as a public DEX, Rial
 
 Robinhood Chain Token Sniper Bot is an automated on-chain trading system designed to monitor newly created tokens, liquidity pools, and contract activity in real time.
 
+<img width="1536" height="1024" alt="robinhood-sniper-bot" src="https://github.com/user-attachments/assets/da462d6a-2142-41d0-a2e0-df8f2286dfd2" />
+
+
 The bot continuously watches blockchain events and identifies new token or liquidity activity before analyzing whether the market satisfies predefined trading conditions.
 
 Instead of simply buying every newly launched token, the system can perform multiple validation checks before execution.
@@ -887,7 +890,7 @@ This repository contains multiple automated strategies designed for different Ro
 This project is part of a larger ecosystem explaining how Robinhood Chain Trading Bots work, including strategy, architecture, Web3 infrastructure, and implementation.
 
 * ⚙️ How to Build a Robinhood Chain Trading Bot in Python
-* Building a Robinhood Chain Token Sniper Bot
+* [Building a Robinhood Chain Token Sniper Bot](https://benjamincup.medium.com/how-to-build-a-robinhood-chain-trading-bot-from-scratch-token-sniper-bot-2e660e3b00bc)
 * Building a Robinhood Chain Copy Trading Bot
 * Building a Robinhood Chain Arbitrage Bot
 * Building a Robinhood Chain Smart Money Tracker
