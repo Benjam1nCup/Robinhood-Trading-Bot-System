@@ -242,7 +242,16 @@ Because the copied transaction may already be visible on-chain, latency and exec
 
 The bot therefore focuses on fast event detection, efficient transaction construction, and controlled position sizing.
 
+**Educational Robinhood Copy Trading Bot**
 
+This is a simple Robinhood Copy Trading Bot created for educational and demonstration purposes. It is designed to help developers understand the fundamentals of wallet monitoring, transaction tracking, trade analysis, and automated copy-trading logic.
+
+The bot demonstrates how a system can monitor selected wallets, detect supported trading activity, analyze transaction details, and determine when a similar trade should be executed.
+
+If you’re interested in learning how an educational Robinhood Copy Trading Bot works, you can explore the project and documentation through the link below.
+
+
+[https://github.com/Benjam1nCup/Robinhood-Chain-Copy-Trading-Bot](https://github.com/Benjam1nCup/Robinhood-Chain-Copy-Trading-Bot)
 
 ---
 
