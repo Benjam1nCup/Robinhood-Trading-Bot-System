@@ -880,6 +880,37 @@ This repository contains multiple automated strategies designed for different Ro
 This project is part of a larger ecosystem explaining how Robinhood Chain Trading Bots work, including strategy, architecture, Web3 infrastructure, and implementation.
 
 * ⚙️ How to Build a Robinhood Chain Trading Bot in Python
+* Building a Robinhood Chain Token Sniper Bot
+* Building a Robinhood Chain Copy Trading Bot
+* Building a Robinhood Chain Arbitrage Bot
+* Building a Robinhood Chain Smart Money Tracker
+* Building a Robinhood Chain Whale Tracking Bot
+* Building a Robinhood Chain Volume Alert Bot
+* Building a Robinhood Chain Liquidity Sniper
+* Building a Robinhood Chain New Token Discovery Engine
+* Building a Robinhood Chain Multi-Wallet Trading System
+* Building a Robinhood Chain Tokenized Stock Arbitrage Bot
+* Building a Robinhood Chain AI Trading Bot
+* Building a Robinhood Chain Liquidity Management Bot
+* Building a Real-Time Robinhood Chain Blockchain Data Engine
+* How to Monitor Robinhood Chain Transactions in Python
+* How to Monitor Robinhood Chain Wallets in Real Time
+* Building a Robinhood Chain WebSocket Trading Bot
+* Building a Low-Latency Robinhood Chain Trading Architecture
+* How to Connect Python Web3 to Robinhood Chain
+* Building a Robinhood Chain Trading Bot with Web3.py
+* Building a Robinhood Chain Trading Bot with ethers.js
+* How to Build a Robinhood Chain Token Scanner
+* How to Detect New Liquidity Pools on Robinhood Chain
+* How to Detect New Token Contracts on Robinhood Chain
+* Building a Robinhood Chain DEX Arbitrage Bot
+* Building a Robinhood Chain Momentum Trading Bot
+* Building a Robinhood Chain Volume Momentum Strategy
+* Building a Robinhood Chain Wallet Intelligence System
+* Building a Multi-Strategy On-Chain Trading Bot
+* Building a Professional Web3 Trading Bot in Python
+* How to Deploy a Robinhood Chain Trading Bot on a VPS
+* Building a Real-Time On-Chain Risk Management Engine
 
 
 ---
