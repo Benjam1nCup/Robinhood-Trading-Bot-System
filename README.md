@@ -183,6 +183,14 @@ Trade Execution
 
 The objective is to identify high-quality early opportunities while avoiding unsafe or illiquid tokens.
 
+**Educational Robinhood Token Sniper Bot**
+
+This is a simple Robinhood Token Sniper Bot created for educational and demonstration purposes. It is designed to help developers understand the basic concepts behind detecting newly launched tokens, analyzing market conditions, and implementing automated trading logic.
+
+If you’re interested in learning how an educational Robinhood Token Sniper Bot works, you can explore the project and documentation through the link below.
+
+
+[https://github.com/Benjam1nCup/Robinhood-Token-Sniper-bot](https://github.com/Benjam1nCup/Robinhood-Token-Sniper-bot)
 
 ---
 
