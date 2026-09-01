@@ -198,6 +198,10 @@ If you’re interested in learning how an educational Robinhood Token Sniper Bot
 
 Robinhood Chain Copy Trading Bot is an automated wallet-monitoring strategy designed to follow selected on-chain wallets.
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 1, 2026, 02_01_07 AM" src="https://github.com/user-attachments/assets/05653f7f-c187-4688-adf5-555af123c53d" />
+
+
 The bot continuously monitors target wallet addresses and analyzes their transactions.
 
 When a tracked wallet performs a supported swap or trading action, the system evaluates whether the transaction should be replicated.
