@@ -912,7 +912,7 @@ This project is part of a larger ecosystem explaining how Robinhood Chain Tradin
 
 * ⚙️ How to Build a Robinhood Chain Trading Bot in Python
 * [Building a Robinhood Chain Token Sniper Bot](https://benjamincup.medium.com/how-to-build-a-robinhood-chain-trading-bot-from-scratch-token-sniper-bot-2e660e3b00bc)
-* Building a Robinhood Chain Copy Trading Bot
+* [Building a Robinhood Chain Copy Trading Bot](https://medium.com/@benjamincup/how-to-build-a-robinhood-chain-copy-trading-bot-from-scratch-5d782ea44bf9)
 * Building a Robinhood Chain Arbitrage Bot
 * Building a Robinhood Chain Smart Money Tracker
 * Building a Robinhood Chain Whale Tracking Bot
