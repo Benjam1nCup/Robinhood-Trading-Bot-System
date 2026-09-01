@@ -6,9 +6,6 @@ An open-source and Strong Strategy collection of Robinhood Chain trading bot and
 
 
 
-
-
-
 This repository is primarily intended for educational and research purposes. It includes strategy concepts, implementation approaches, and selected performance screenshots to help developers understand how different automated trading strategies can be designed and tested on Robinhood Chain.
 
 Robinhood Chain is an Ethereum-compatible Layer-2 blockchain built with Arbitrum technology. The mainnet uses Chain ID 4663, ETH as the native gas token, and provides EVM-compatible infrastructure for developers building on-chain applications and trading systems.
