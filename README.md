@@ -358,8 +358,15 @@ Risk Check
      ↓
 Execution
 ```
+Educational Pons Family Liquidity Sniper Bot on Robinhood Chain
 
+This is a simple Pons Family Liquidity Sniper Bot created for educational and demonstration purposes. It is designed to help developers understand the fundamentals of monitoring new token launches, detecting liquidity activity, analyzing token and pool conditions, tracking on-chain events, and implementing automated trading logic on Robinhood Chain.
 
+The bot demonstrates how a system can monitor newly launched Pons Family tokens, identify associated liquidity pools, analyze liquidity and trading activity, evaluate configured strategy conditions, and prepare supported transactions as part of an automated launch-monitoring workflow.
+
+If you’re interested in learning how an educational Pons Family Liquidity Sniper Bot works on Robinhood Chain, you can explore the project and documentation through the links below.
+
+https://github.com/Benjam1nCup/Robinhood-Chain-Pons-Liquidity-Sniper-Bot
 
 ---
 
