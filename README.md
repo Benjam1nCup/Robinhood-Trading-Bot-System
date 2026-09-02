@@ -260,6 +260,9 @@ If you’re interested in learning how an educational Robinhood Copy Trading Bot
 
 Robinhood Chain Token Bundler Research Bot is designed to study coordinated multi-wallet transaction execution during token launches.
 
+<img width="1536" height="1024" alt="robinhood bundler bot" src="https://github.com/user-attachments/assets/d1f44ba2-cc0d-4b95-baff-aa0a618b7b49" />
+
+
 The system can coordinate multiple wallets and prepare transactions for controlled execution.
 
 Rather than treating a launch as a single-wallet operation, the framework can manage multiple independent wallet addresses and transaction sequences.
@@ -302,7 +305,15 @@ Blockchain
 
 This repository treats bundling as an infrastructure and transaction-coordination research topic rather than a mechanism for manipulating token markets or misleading market participants.
 
+**Educational Pons Token Bundler Bot on Robinhood Chain**
 
+This is a simple Pons Token Bundler Bot created for educational and demonstration purposes. It is designed to help developers understand the fundamentals of multi-wallet transaction coordination, token launch execution, transaction tracking, and bundling logic on Robinhood Chain.
+
+The bot demonstrates how a system can prepare transactions across multiple wallets, organize transaction execution, monitor on-chain activity, and coordinate supported operations as part of a token launch workflow.
+
+If you’re interested in learning how an educational Pons Token Bundler Bot works on Robinhood Chain, you can explore the project and documentation through the link below.
+
+https://github.com/Benjam1nCup/Robinhood-Chain-Pons-Bundler-Bot.git
 
 ---
 
