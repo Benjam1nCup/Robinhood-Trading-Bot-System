@@ -544,6 +544,10 @@ This strategy is particularly useful as a research and signal-generation layer f
 
 Robinhood Chain Liquidity Provider Bot is an automated liquidity-management system designed to monitor and manage liquidity positions.
 
+
+<img width="1536" height="1024" alt="robinhood-volume-making-bot" src="https://github.com/user-attachments/assets/6e48b0d5-9cfd-41fb-9a27-61c2b05a6fe7" />
+
+
 The bot can continuously evaluate:
 
 * Pool price
@@ -576,7 +580,13 @@ Rebalance Decision
 
 The objective is to automate liquidity management while maintaining explicit controls over exposure and risk.
 
+This is an **educational Pons Market-Making Bot** built for Robinhood Chain.
 
+The bot is designed to monitor newly launched Pons tokens, discover liquidity pools, generate buy/sell quotes, manage inventory, execute trades, and track trading performance.
+
+The project is intended for **education, research, and authorized testing** of automated market-making strategies on Robinhood Chain.
+
+[https://github.com/Benjam1nCup/Robinhood-Pons-Volume-Making-bot](https://github.com/Benjam1nCup/Robinhood-Pons-Volume-Making-bot)
 
 ---
 
@@ -925,7 +935,7 @@ This repository contains multiple automated strategies designed for different Ro
 
 This project is part of a larger ecosystem explaining how Robinhood Chain Trading Bots work, including strategy, architecture, Web3 infrastructure, and implementation.
 
-* ⚙️ How to Build a Robinhood Chain Trading Bot in Python
+* [⚙️ How to Build a Robinhood Chain Trading Bot in Python](https://medium.com/@benjamincup/robinhood-trading-bots-15-strategies-for-automated-trading-on-robinhood-chain-f322e2a3603c)
 * [Building a Robinhood Chain Token Sniper Bot](https://benjamincup.medium.com/how-to-build-a-robinhood-chain-trading-bot-from-scratch-token-sniper-bot-2e660e3b00bc)
 * [Building a Robinhood Chain Copy Trading Bot](https://medium.com/@benjamincup/how-to-build-a-robinhood-chain-copy-trading-bot-from-scratch-5d782ea44bf9)
 * Building a Robinhood Chain Arbitrage Bot
@@ -937,7 +947,7 @@ This project is part of a larger ecosystem explaining how Robinhood Chain Tradin
 * Building a Robinhood Chain Multi-Wallet Trading System
 * Building a Robinhood Chain Tokenized Stock Arbitrage Bot
 * Building a Robinhood Chain AI Trading Bot
-* Building a Robinhood Chain Liquidity Management Bot
+* [Building a Robinhood Chain Liquidity Management Bot](https://medium.com/@benjamincup/how-to-build-a-robinhood-chain-pons-volume-making-bot-2c55c658b4e4)
 * Building a Real-Time Robinhood Chain Blockchain Data Engine
 * How to Monitor Robinhood Chain Transactions in Python
 * How to Monitor Robinhood Chain Wallets in Real Time
