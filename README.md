@@ -942,7 +942,7 @@ This project is part of a larger ecosystem explaining how Robinhood Chain Tradin
 * Building a Robinhood Chain Smart Money Tracker
 * Building a Robinhood Chain Whale Tracking Bot
 * Building a Robinhood Chain Volume Alert Bot
-* Building a Robinhood Chain Liquidity Sniper
+* [Building a Robinhood Chain Pons Liquidity Sniper](https://benjamincup.medium.com/how-to-build-a-pons-liquidity-sniper-bot-on-robinhood-chain-6958af693f90)
 * Building a Robinhood Chain New Token Discovery Engine
 * Building a Robinhood Chain Multi-Wallet Trading System
 * Building a Robinhood Chain Tokenized Stock Arbitrage Bot
