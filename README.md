@@ -89,9 +89,8 @@ If you're interested in collaboration or have any questions or want to buy tradi
 
 | Channel     | Link                                                          |
 | ----------- | ------------------------------------------------------------- |
-| Email       | [benjamin.bigdev@gmail.com](mailto:benjamin.bigdev@gmail.com) |
-| Telegram    | @BenjaminCup                                                  |
-| X (Twitter) | @benjaminccup                                                 |
+| Telegram    | [@BenjaminCup](https://t.me/BenjaminCup)                                                  |
+
 
 If you'd like, I can show you a trading bot in action through a meeting or provide a demo version.
 
